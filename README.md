@@ -1,6 +1,9 @@
 # Deep-Image-Captioning
 Image Captioning with Attention : An implementation of Show, Attend and Tell
 
+[!ResNet101CaptionOutput.PNG]
+
+
 Description
 ===========
 
@@ -25,3 +28,6 @@ Code organization
 - assets/logs/ -- Directory to store the logs of training experiments
 
 - assets/checkpoints/ -- Directory to store checkpoints of training experiments, from which training can be resumed in case of unexpected interruptions like disconnection and session termination.
+
+
+Drive Link to Saved Models and Other Assets :https://drive.google.com/open?id=11z3UJ9NCBScFb8z3TbfQDEX7FX_5RxYV
